@@ -21,7 +21,7 @@ class EmployeeDetails
 	public static void main(String[] args)
 	{
 	  Employee e=new Employee();
-	  e.InputDetails(205,"RAMACHANDRA",25000);
+	  e.InputDetails(205,"SRI RAMACHANDRA",25000);
 	  e.ShowDetails(); 
 	  e.InputDetails(894,"RAGHU",45000);
 	  e.ShowDetails();
